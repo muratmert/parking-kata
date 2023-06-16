@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Assessment.API", "src\ParkBee.Assessment.API\ParkBee.Assessment.API.csproj", "{4BFFB24D-7316-4054-8145-460F15BB35CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution items", "src\.solution items", "{D19B0677-FF36-422A-BE08-183BF726BF55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{84B41DEF-095F-4544-AF08-29185216ADF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Assessment.Application", "src\ParkBee.Assessment.Application\ParkBee.Assessment.Application.csproj", "{3B62D786-9635-4190-8B1F-DA42AF4AF043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Asssessment.Domain", "src\ParkBee.Asssessment.Domain\ParkBee.Asssessment.Domain.csproj", "{686B715C-6240-4316-B07B-55680B94731A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Assessment.Infrastructure", "src\ParkBee.Assessment.Infrastructure\ParkBee.Assessment.Infrastructure.csproj", "{610E59B5-52AE-44FA-BAE3-26625B85AFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Asessment.API.IntegrationTest", "test\ParkBee.Asessment.API.IntegrationTest\ParkBee.Asessment.API.IntegrationTest.csproj", "{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkBee.Asessment.Application.UnitTest", "test\ParkBee.Asessment.Application.UnitTest\ParkBee.Asessment.Application.UnitTest.csproj", "{5CE99171-7EBA-4102-9F33-1B55369AE2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFFB24D-7316-4054-8145-460F15BB35CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFFB24D-7316-4054-8145-460F15BB35CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFFB24D-7316-4054-8145-460F15BB35CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFFB24D-7316-4054-8145-460F15BB35CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B62D786-9635-4190-8B1F-DA42AF4AF043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B62D786-9635-4190-8B1F-DA42AF4AF043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B62D786-9635-4190-8B1F-DA42AF4AF043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B62D786-9635-4190-8B1F-DA42AF4AF043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686B715C-6240-4316-B07B-55680B94731A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686B715C-6240-4316-B07B-55680B94731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686B715C-6240-4316-B07B-55680B94731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686B715C-6240-4316-B07B-55680B94731A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610E59B5-52AE-44FA-BAE3-26625B85AFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610E59B5-52AE-44FA-BAE3-26625B85AFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610E59B5-52AE-44FA-BAE3-26625B85AFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610E59B5-52AE-44FA-BAE3-26625B85AFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE99171-7EBA-4102-9F33-1B55369AE2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE99171-7EBA-4102-9F33-1B55369AE2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE99171-7EBA-4102-9F33-1B55369AE2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE99171-7EBA-4102-9F33-1B55369AE2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72F6EFF-5826-496D-B7A9-7FA4207DFC93}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181} = {84B41DEF-095F-4544-AF08-29185216ADF9}
+		{5CE99171-7EBA-4102-9F33-1B55369AE2F7} = {84B41DEF-095F-4544-AF08-29185216ADF9}
+	EndGlobalSection
+EndGlobal

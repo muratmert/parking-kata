@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6mULQRkqDOFd++AyKck3uj3AJlBB2FFoWkzk/iNutEomAVOjluX8CvlSQLRZjqcmnHS2nwObUPf2QBQxHJ8+A==",
+  "success": true,
+  "projectFilePath": "/Users/muratmert/workspace/github/assessment/backend/src/ParkBee.Asssessment.Domain/ParkBee.Asssessment.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratmert/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3f3432b_002D4132_002D4344_002Db5bb_002D7856f3ffd1b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181::.NETCoreApp,Version=v3.1::ParkBee.Asessment.API.IntegrationTest.Middlewares.CorrelationIdMiddlewareTest.GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eee424f4_002D78ea_002D48ec_002D8f96_002Df0cf5818a08a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181::.NETCoreApp,Version=v3.1::ParkBee.Asessment.API.IntegrationTest.Middlewares.CorrelationIdMiddlewareTest.GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fee79592_002Dc31c_002D405c_002D965e_002D6bafba58f77d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1F4BEA36-13F9-4BFD-B8A1-90D43B1B8181::.NETCoreApp,Version=v3.1::ParkBee.Asessment.API.IntegrationTest.Middlewares.CorrelationIdMiddlewareTest.GivenRequest_WhenCorrelationIdExist_Then_CorrelationIdAddedOnRequestHeader&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5CE99171-7EBA-4102-9F33-1B55369AE2F7::.NETCoreApp,Version=v3.1::ParkBee.Asessment.Application.UnitTest.Garages.GetGarageByIdQueryHandlerTest.When_GetGarageByIdQuery_Requested_Then_GarageDto_Should_Return_Successfully&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

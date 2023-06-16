@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0gdGcY+ksD16j70MpyuVp1peP/yUOZy9uzglQuFFxZphY/q/cvmv/5VgZxrHr69PCEbO5h6XbtV75SYvLOPtQ==",
+  "success": true,
+  "projectFilePath": "/Users/muratmert/workspace/github/assessment/backend/src/ParkBee.Assessment.Application/ParkBee.Assessment.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratmert/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/fluentvalidation/8.6.1/fluentvalidation.8.6.1.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/system.reflection.emit.lightweight/4.6.0/system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "/Users/muratmert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
